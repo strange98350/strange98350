@@ -1,15 +1,19 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="290" width="1010"></p>
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /> -->
 <h1 align="center">Hi 👋, I'm Chandan Dutta</h1>
-<h3 align="center">A passionate novice developer from India</h3>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1010"> -->
+<h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strange98350&label=Profile%20views&color=0e75b6&style=flat" alt="strange98350" /> </p>
+
 
 - 🌱 I’m currently learning **Mobile Dev**
 
 - 📫 How to reach me **chandandutta168@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chandan-dutta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandan-dutta/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chandan-dutta/" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
